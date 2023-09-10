@@ -1,0 +1,196 @@
+.gallery {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 45px;
+}
+.gallery .photos1 {
+  width: 250px;
+  height: 400px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/Picture2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gallery .photos2 {
+  width: 250px;
+  height: 400px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/Picture4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gallery .photos3 {
+  width: 250px;
+  height: 400px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/ad_Castillo_Kiara.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 90px;
+}
+.gallery2 .photo4 {
+  width: 400px;
+  height: 250px;
+  background-color: #212121;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/Picture11.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gallery2 .photo5 {
+  width: 400px;
+  height: 250px;
+  background-color: #212121;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/Picture15.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gallery2 .photo6 {
+  width: 400px;
+  height: 250px;
+  background-color: #212121;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/Picture6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 45px;
+  color: #9882da;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 50px;
+}
+
+.personal {
+  margin-top: 50px;
+  border-top: solid 1px #7e7e7e;
+}
+.personal .gallery3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 45px;
+}
+.personal .gallery3 .foto1 {
+  width: 250px;
+  height: 400px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/20220418_173046.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.personal .gallery3 .foto2 {
+  width: 250px;
+  height: 400px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/photoedit (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.personal .gallery4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 60px;
+}
+.personal .gallery4 .foto4 {
+  width: 400px;
+  height: 250px;
+  background-color: #212121;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/motionlesinwhite.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.personal .gallery4 .foto5 {
+  width: 400px;
+  height: 250px;
+  background-color: #212121;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/blackveilbrides.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.personal .gallery4 .foto6 {
+  width: 400px;
+  height: 250px;
+  background-color: #212121;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 30px 0 30px;
+  background-image: url("../images/iceninekills.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
